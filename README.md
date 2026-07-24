@@ -26,6 +26,10 @@
 - key 3 -> undo
 - key 4 -> rdeo
   
+# BOM
+- 4x Mx switch
+- 4x keycaps
+- 1x seeed studio samd21
 
 # Information
 ## Inspiration
