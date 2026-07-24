@@ -4,7 +4,7 @@ from kmk.keys import KC
 from kmk.scanners.keypad import DirectPins
 keyboard = KMKKeyboard()
 keyboard.matrix = DirectPins(
-    pins = (board.D9, board.D11, board.10, board.8),
+    pins = (board.D9, board.D11, board.D10, board.D8),
     value_when_pressed = False,
     pull= True,
 )
