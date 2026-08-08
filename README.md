@@ -29,11 +29,10 @@
 # BOM
 |product|price|link|
 |:---:|:---:|:---:|
-
-
+|MX switch|9.60|[buy](https://www.aliexpress.com/item/4000100166477.html?spm=a2g0n.productlist.0.0.5d422464LBuJkQ&browser_id=88688e762c4b4ac592af2021b8ba8817&aff_platform=msite&m_page_id=rjdwismp7vocaxrh19fe0c04227247d6e50a35c1b8&gclid=&pdp_ext_f=%7B%22order%22%3A%2229%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21PKR%212883.33%212708.77%21%21%219.25%218.69%21%40ac10c6f117861821240587633d4451%2110000000263150986%21sea%21PK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A88b7f846%3Bm03_new_user%3A-29895&algo_pvid=fc0baad9-8cc8-423f-a047-dd8736d333ec&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4000100166477%7C_p_origin_prod%3A)
 # Information
 ## Inspiration
 #### i have done a lots of software projects and wanted to try hardware too. Thus after some research decided to go for a macropad. I found many resources online so it helped me a lot.
-## Chalanges
+## Challenges 
 #### Designing the case was the most difficult also i used fusion for the firts time. KiCad was dfficult ot use too but the controls in KiCadwere normal. Fusion had evrything jumbled up.
 
