@@ -1,4 +1,4 @@
-# My first Macropad
+# Fusionpad
 ### A macropad with 4 keys i made for hackclub mqacondo program. I used KiCad and fusion360 for the first time!
 # Features
 - 4 reprogramable keys
@@ -27,9 +27,9 @@
 - key 4 -> rdeo
   
 # BOM
-- 4x Mx switch
-- 4x keycaps
-- 1x seeed studio samd21
+|product|price|link|
+|:---:|:---:|:---:|
+
 
 # Information
 ## Inspiration
