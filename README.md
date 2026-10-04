@@ -34,6 +34,7 @@
 |Keycaps|2.58 for 10|[buy](https://www.aliexpress.com/item/1005008827240220.html?spm=a2g0n.productlist.0.0.2d787b89Wych7K&browser_id=88688e762c4b4ac592af2021b8ba8817&aff_platform=msite&m_page_id=rjdwismp7vocaxrh1a1062c3e3e198b9f1cb1688d0&gclid=&pdp_ext_f=%7B%22order%22%3A%221489%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21PKR%21714.81%21711.66%21%21%212.27%212.26%21%402102eb1417911049252034253e0f35%2112000046843776636%21sea%21PK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A88b7f846%3Bm03_new_user%3A-29895%3BpisId%3A5000000216890786&isseo=y&algo_pvid=ed0f8664-520b-4492-aec7-cdbeb7161844&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008827240220%7C_p_origin_prod%3A)
 |Case| - |[link](https://github.com/nabaafatima/first-ever-macropad/blob/main/CAD/bottom%2Bpart.stl)
 |plate| - |[link](https://github.com/nabaafatima/first-ever-macropad/blob/main/CAD/plate.stl)
+| pcb | - |[link](https://github.com/nabaafatima/first-ever-macropad/blob/main/production/gerber.zip)
 # Information
 ## Inspiration
 #### i have done a lots of software projects and wanted to try hardware too. Thus after some research decided to go for a macropad. I found many resources online so it helped me a lot.
